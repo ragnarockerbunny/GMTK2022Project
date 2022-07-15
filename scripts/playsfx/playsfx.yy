@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "play_sfx",
+  "name": "playsfx",
   "tags": [],
   "resourceType": "GMScript",
 }

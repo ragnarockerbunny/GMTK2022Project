@@ -1,6 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"obj_test_matt","path":"objects/obj_test_matt/obj_test_matt.yy",},"order":0,},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},"order":0,},
   ],
   "Options": [

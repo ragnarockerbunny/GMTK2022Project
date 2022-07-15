@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"o_lose_button","path":"objects/o_lose_button/o_lose_button.yy",},"order":10,},
     {"id":{"name":"o_area1","path":"objects/o_area1/o_area1.yy",},"order":3,},
     {"id":{"name":"s_area4","path":"sprites/s_area4/s_area4.yy",},"order":5,},
     {"id":{"name":"s_area1","path":"sprites/s_area1/s_area1.yy",},"order":2,},
@@ -13,11 +14,13 @@
     {"id":{"name":"o_bar","path":"objects/o_bar/o_bar.yy",},"order":0,},
     {"id":{"name":"s_table","path":"sprites/s_table/s_table.yy",},"order":0,},
     {"id":{"name":"o_area4","path":"objects/o_area4/o_area4.yy",},"order":7,},
+    {"id":{"name":"s_lose_button","path":"sprites/s_lose_button/s_lose_button.yy",},"order":9,},
     {"id":{"name":"s_area2","path":"sprites/s_area2/s_area2.yy",},"order":3,},
     {"id":{"name":"o_area5","path":"objects/o_area5/o_area5.yy",},"order":6,},
     {"id":{"name":"s_bar","path":"sprites/s_bar/s_bar.yy",},"order":0,},
     {"id":{"name":"s_cheat_button","path":"sprites/s_cheat_button/s_cheat_button.yy",},"order":8,},
     {"id":{"name":"o_area2","path":"objects/o_area2/o_area2.yy",},"order":4,},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},"order":2,},
     {"id":{"name":"o_area3","path":"objects/o_area3/o_area3.yy",},"order":5,},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},"order":0,},

@@ -1,3 +1,4 @@
 /// @initialize music controller
 
-//5 Track System
+//basic music system implementation
+current_song = -1;

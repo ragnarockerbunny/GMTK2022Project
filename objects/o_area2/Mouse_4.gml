@@ -1,0 +1,1 @@
+global.minigame = "Area2"

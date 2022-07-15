@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"play_sfx","path":"scripts/play_sfx/play_sfx.yy",},"order":0,},
+    {"id":{"name":"o_music_controller","path":"objects/o_music_controller/o_music_controller.yy",},"order":0,},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},"order":0,},
   ],
   "Options": [

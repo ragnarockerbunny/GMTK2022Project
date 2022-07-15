@@ -1,3 +1,5 @@
-/// @initialize music controller
+/// @description Insert description here
+// You can write your code in this editor
 
-//5 Track System
+current_song = -1;
+room_song = -1;

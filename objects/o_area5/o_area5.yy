@@ -1,16 +1,15 @@
 {
-  "name": "o_area5",
   "spriteId": {
     "name": "s_area5",
     "path": "sprites/s_area5/s_area5.yy",
   },
-  "spriteMaskId": null,
-  "visible": true,
   "solid": false,
-  "persistent": false,
-  "physicsObject": false,
+  "visible": true,
   "managed": true,
+  "spriteMaskId": null,
+  "persistent": false,
   "parentObjectId": null,
+  "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -33,6 +32,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
+  "name": "o_area5",
   "tags": [],
   "resourceType": "GMObject",
 }

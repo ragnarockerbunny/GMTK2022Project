@@ -1,8 +1,12 @@
 {
   "resources": [
+<<<<<<< HEAD
     {"id":{"name":"o_game_controller","path":"objects/o_game_controller/o_game_controller.yy",},"order":0,},
     {"id":{"name":"o_music_controller","path":"objects/o_music_controller/o_music_controller.yy",},"order":1,},
     {"id":{"name":"playsfx","path":"scripts/playsfx/playsfx.yy",},"order":0,},
+=======
+    {"id":{"name":"obj_test_matt","path":"objects/obj_test_matt/obj_test_matt.yy",},"order":0,},
+>>>>>>> parent of 0fdb12e (restore)
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},"order":0,},
   ],
   "Options": [

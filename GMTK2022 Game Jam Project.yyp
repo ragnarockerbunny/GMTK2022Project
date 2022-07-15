@@ -23,7 +23,7 @@
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},"order":2,},
     {"id":{"name":"o_area3","path":"objects/o_area3/o_area3.yy",},"order":5,},
-    {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},"order":0,},
+    {"id":{"name":"r_main","path":"rooms/r_main/r_main.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -39,7 +39,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
+    {"roomId":{"name":"r_main","path":"rooms/r_main/r_main.yy",},},
     {"roomId":{"name":"r_area","path":"rooms/r_area/r_area.yy",},},
     {"roomId":{"name":"r_minigames","path":"rooms/r_minigames/r_minigames.yy",},},
   ],

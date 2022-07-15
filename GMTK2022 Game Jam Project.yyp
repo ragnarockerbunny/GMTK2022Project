@@ -1,5 +1,6 @@
 {
   "resources": [
+<<<<<<< HEAD
     {"id":{"name":"o_lose_button","path":"objects/o_lose_button/o_lose_button.yy",},"order":10,},
     {"id":{"name":"o_area1","path":"objects/o_area1/o_area1.yy",},"order":3,},
     {"id":{"name":"s_area4","path":"sprites/s_area4/s_area4.yy",},"order":5,},
@@ -24,6 +25,11 @@
     {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},"order":2,},
     {"id":{"name":"o_area3","path":"objects/o_area3/o_area3.yy",},"order":5,},
     {"id":{"name":"r_main","path":"rooms/r_main/r_main.yy",},"order":0,},
+=======
+    {"id":{"name":"play_sfx","path":"scripts/play_sfx/play_sfx.yy",},"order":0,},
+    {"id":{"name":"o_music_controller","path":"objects/o_music_controller/o_music_controller.yy",},"order":0,},
+    {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},"order":0,},
+>>>>>>> a48dc8ed3d7a8eec523f99ac23b37efbec0f6fe4
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},

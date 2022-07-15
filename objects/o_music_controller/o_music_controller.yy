@@ -4,7 +4,7 @@
   "spriteMaskId": null,
   "visible": true,
   "solid": false,
-  "persistent": true,
+  "persistent": false,
   "physicsObject": false,
   "managed": true,
   "parentObjectId": null,
@@ -19,9 +19,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

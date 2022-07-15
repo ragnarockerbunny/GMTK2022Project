@@ -1,8 +1,8 @@
 {
-  "name": "o_lose_button",
+  "name": "o_win",
   "spriteId": {
-    "name": "s_lose_button",
-    "path": "sprites/s_lose_button/s_lose_button.yy",
+    "name": "s_win",
+    "path": "sprites/s_win/s_win.yy",
   },
   "spriteMaskId": null,
   "visible": true,

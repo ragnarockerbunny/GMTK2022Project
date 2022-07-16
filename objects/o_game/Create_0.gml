@@ -9,8 +9,8 @@ global.minigame_condition = -1
 
 global.last_room = 0
 
-global.volume_sfx = 100;
-global.volume_msc = 100;
+global.volume_sfx = 70;
+global.volume_msc = 70;
 global.debug_toggle = false;
 
 global.money = 900000;

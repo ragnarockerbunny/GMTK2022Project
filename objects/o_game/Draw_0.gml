@@ -1,4 +1,4 @@
-if(room != rm_dicecrapesgame){
+if(global.debug_toggle){
 	if instance_exists(o_bar) draw_text(o_bar.x,o_bar.y-100,"Press SPACE to stop")
 	draw_text(room_width/2 - 400, room_height/2,"Current Minigame: " + string(global.minigame))
 

@@ -3,11 +3,11 @@
 
 switch(state){
 	case green_light:
-		alarm[0] = choose (25);
+		alarm[0] = 22;
 		state = yellow_light;
 		break;
 	case yellow_light:
-		alarm[0] = choose (5, 20, 80, 160)
+		alarm[0] = choose (20, 40, 80, 160)
 		state = red_light;
 		break;
 	case red_light:

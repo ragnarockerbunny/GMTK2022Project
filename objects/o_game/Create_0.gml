@@ -14,5 +14,6 @@ global.volume_msc = 100;
 global.debug_toggle = false;
 
 global.money = 900000;
+global.debt = 1000000
 
 global.time = 48

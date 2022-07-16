@@ -12,4 +12,4 @@ global.volume_msc = 100;
 
 global.debug_toggle = false;
 
-money = 0;
+global.money = 350000;

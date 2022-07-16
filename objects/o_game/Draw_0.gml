@@ -11,7 +11,9 @@ if(global.debug_toggle){
 }
 
 draw_set_font(f_hud)
+draw_set_halign(fa_left)
+draw_set_valign(fa_top)
 draw_set_colour(c_black);
-draw_text(1, 1, "$" + string(money));
+draw_text(1, 1, "$" + string(global.money));
 draw_set_color((c_white))
-draw_text(0, 0, "$" + string(money));
+draw_text(0, 0, "$" + string(global.money));

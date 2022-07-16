@@ -12,7 +12,7 @@ if(can_interact){
 		stop = true;
 		if(kickpower >= goodkick_min && kickpower<= goodkick_max){
 			global.meter += 10
-			global.money+= 100;
+			global.money+= 10417;
 			play_sfx(sfx_tablebump_success);
 			play_sfx(sfx_money_made);
 		}else play_sfx(sfx_tablebump_fail);

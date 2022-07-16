@@ -1,16 +1,16 @@
 if global.condition == 0
 {
-	global.money -= 100
+	global.money -= 4700
 	play_sfx(sfx_money_made)
-	global.time -= 0.5
+	global.time -= 31250
 	global.status = 0
 	global.condition = -1
 }
 else if global.condition == 1
 {
-	global.money += 100
+	global.money += 5208
 	play_sfx(sfx_money_made)
-	global.time -= 0.5
+	global.time -= 1
 	global.status = 1
 	global.condition = -1
 }

@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "UI and HUD",
+    "path": "folders/Objects/UI and HUD.yy",
   },
   "resourceVersion": "1.0",
   "tags": [],

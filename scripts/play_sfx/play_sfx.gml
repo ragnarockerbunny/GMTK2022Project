@@ -4,3 +4,7 @@ function play_sfx(sfx){
 	audio_sound_gain(sfx, global.volume_sfx/100, 0);
 	audio_play_sound(sfx, 0, 0);
 }
+function play_sfx_looped(sfx){
+	audio_sound_gain(sfx, global.volume_sfx/100, 0);
+	audio_play_sound(sfx, 0, 1);
+}

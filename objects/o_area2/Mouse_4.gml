@@ -1,1 +1,1 @@
-global.minigame = "Area2"
+event_inherited()

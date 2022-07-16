@@ -7,6 +7,7 @@ if(keyboard_check_pressed(vk_space) && !win && !lose){
 	
 	if(distance>=distance_max){
 		addMoney(100);
+		global.meter += 10
 		play_sfx(sfx_money_made)
 		win = true;
 	}

@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "s_trigger",
-    "path": "sprites/s_trigger/s_trigger.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,

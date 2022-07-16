@@ -19,6 +19,7 @@ if(time <=0) lose = true;
 if(iterator>= array_length(charArr)) {
 	if(!win){
 		addMoney(100);
+		global.meter += 10
 		play_sfx(sfx_money_made)
 	}
 	win = true;

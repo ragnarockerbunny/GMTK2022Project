@@ -3,3 +3,4 @@
 
 hover = false;
 level_money_requirement = 0
+destination = 0

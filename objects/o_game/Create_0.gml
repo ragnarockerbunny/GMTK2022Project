@@ -1,4 +1,5 @@
 depth = -100000;
+randomize();
 global.minigame = noone
 
 global.winning_percentage = 50

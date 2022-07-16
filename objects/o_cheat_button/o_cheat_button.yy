@@ -1,15 +1,16 @@
 {
+  "name": "o_cheat_button",
   "spriteId": {
     "name": "s_cheat_button",
     "path": "sprites/s_cheat_button/s_cheat_button.yy",
   },
-  "solid": false,
-  "visible": true,
-  "managed": true,
   "spriteMaskId": null,
+  "visible": true,
+  "solid": false,
   "persistent": false,
-  "parentObjectId": null,
   "physicsObject": false,
+  "managed": true,
+  "parentObjectId": null,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -31,7 +32,6 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_cheat_button",
   "tags": [],
   "resourceType": "GMObject",
 }

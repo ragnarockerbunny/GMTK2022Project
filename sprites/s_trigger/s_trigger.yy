@@ -1,19 +1,20 @@
 {
-  "bboxMode": 0,
-  "collisionKind": 1,
-  "type": 0,
-  "origin": 4,
+  "name": "s_trigger",
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
-  "swfPrecision": 2.525,
   "bbox_left": 0,
   "bbox_right": 25,
   "bbox_top": 0,
   "bbox_bottom": 25,
-  "HTile": false,
-  "VTile": false,
-  "For3D": false,
+  "origin": 4,
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "swfPrecision": 2.525,
   "width": 26,
   "height": 26,
   "textureGroupId": {
@@ -29,6 +30,12 @@
       ],"parent":{"name":"s_trigger","path":"sprites/s_trigger/s_trigger.yy",},"resourceVersion":"1.0","name":"f7887e56-3c29-4157-93a6-4280f7ddd841","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"9f0fce76-b4dd-4baa-af5d-1e3a113b07c5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f7887e56-3c29-4157-93a6-4280f7ddd841","path":"sprites/s_trigger/s_trigger.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+    ],
+    "visibleRange": null,
     "spriteId": {"name":"s_trigger","path":"sprites/s_trigger/s_trigger.yy",},
     "timeUnits": 1,
     "playback": 1,
@@ -39,12 +46,6 @@
     "length": 1.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
-    "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"9f0fce76-b4dd-4baa-af5d-1e3a113b07c5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f7887e56-3c29-4157-93a6-4280f7ddd841","path":"sprites/s_trigger/s_trigger.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
-    ],
-    "visibleRange": null,
     "lockOrigin": false,
     "showBackdrop": true,
     "showBackdropImage": false,
@@ -73,7 +74,6 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "s_trigger",
   "tags": [],
   "resourceType": "GMSprite",
 }

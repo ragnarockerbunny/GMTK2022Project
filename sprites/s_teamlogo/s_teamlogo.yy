@@ -2,20 +2,20 @@
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
-  "origin": 4,
+  "origin": 0,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 343,
-  "bbox_right": 1158,
-  "bbox_top": 527,
-  "bbox_bottom": 994,
+  "bbox_left": 0,
+  "bbox_right": 1999,
+  "bbox_top": 0,
+  "bbox_bottom": 999,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1500,
-  "height": 1500,
+  "width": 2000,
+  "height": 1000,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"ea28b0eb-e395-4614-b58b-ff76de4bb3bf","path":"sprites/s_teamlogo/s_teamlogo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ea28b0eb-e395-4614-b58b-ff76de4bb3bf","path":"sprites/s_teamlogo/s_teamlogo.yy",},"LayerId":{"name":"c16ece9f-d1f7-49b8-a79f-7f89d442cd5b","path":"sprites/s_teamlogo/s_teamlogo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"s_teamlogo","path":"sprites/s_teamlogo/s_teamlogo.yy",},"resourceVersion":"1.0","name":"ea28b0eb-e395-4614-b58b-ff76de4bb3bf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0157fd7a-e7b7-4d64-b35e-dde53461edb8","path":"sprites/s_teamlogo/s_teamlogo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0157fd7a-e7b7-4d64-b35e-dde53461edb8","path":"sprites/s_teamlogo/s_teamlogo.yy",},"LayerId":{"name":"afcd3338-a8ff-40b4-9285-50edd655ff61","path":"sprites/s_teamlogo/s_teamlogo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"s_teamlogo","path":"sprites/s_teamlogo/s_teamlogo.yy",},"resourceVersion":"1.0","name":"0157fd7a-e7b7-4d64-b35e-dde53461edb8","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"s_teamlogo","path":"sprites/s_teamlogo/s_teamlogo.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"084dd1e8-5b40-44ec-b10a-f025c7e3f698","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ea28b0eb-e395-4614-b58b-ff76de4bb3bf","path":"sprites/s_teamlogo/s_teamlogo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"ac10389c-add4-4c31-b3ca-301d0ae384a5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0157fd7a-e7b7-4d64-b35e-dde53461edb8","path":"sprites/s_teamlogo/s_teamlogo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -54,8 +54,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 750,
-    "yorigin": 750,
+    "xorigin": 0,
+    "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_teamlogo","path":"sprites/s_teamlogo/s_teamlogo.yy",},
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c16ece9f-d1f7-49b8-a79f-7f89d442cd5b","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"afcd3338-a8ff-40b4-9285-50edd655ff61","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

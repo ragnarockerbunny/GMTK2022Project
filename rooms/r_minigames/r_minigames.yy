@@ -15,7 +15,6 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"o_win","path":"objects/o_win/o_win.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":448.0,"resourceVersion":"1.0","name":"inst_31323480","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"o_home_button","path":"objects/o_home_button/o_home_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":704.0,"resourceVersion":"1.0","name":"inst_51AAB2DD","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"s_table","path":"sprites/s_table/s_table.yy",},"headPosition":0.0,"rotation":-90.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":384.0,"resourceVersion":"1.0","name":"graphic_7AF7C175","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -27,7 +26,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_31323480","path":"rooms/r_minigames/r_minigames.yy",},
-    {"name":"inst_51AAB2DD","path":"rooms/r_minigames/r_minigames.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

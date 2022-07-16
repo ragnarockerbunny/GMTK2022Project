@@ -70,8 +70,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Buttons",
-    "path": "folders/Sprites/UI and HUD/Buttons.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "tags": [],

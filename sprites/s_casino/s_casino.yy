@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 3599,
+  "bbox_right": 1280,
   "bbox_top": 0,
-  "bbox_bottom": 2024,
+  "bbox_bottom": 719,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 3600,
-  "height": 2025,
+  "width": 1281,
+  "height": 720,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"086e876d-f7de-4df3-b029-e2e05f2dbb5b","path":"sprites/WIP_lounge/WIP_lounge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"086e876d-f7de-4df3-b029-e2e05f2dbb5b","path":"sprites/WIP_lounge/WIP_lounge.yy",},"LayerId":{"name":"b73e131b-833c-4227-b765-5ff067f9e6d4","path":"sprites/WIP_lounge/WIP_lounge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"WIP_lounge","path":"sprites/WIP_lounge/WIP_lounge.yy",},"resourceVersion":"1.0","name":"086e876d-f7de-4df3-b029-e2e05f2dbb5b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1f15d68a-c4a6-455a-9573-ddef281be836","path":"sprites/s_casino/s_casino.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1f15d68a-c4a6-455a-9573-ddef281be836","path":"sprites/s_casino/s_casino.yy",},"LayerId":{"name":"0915199f-ed77-4f01-9b20-e0ee815917fd","path":"sprites/s_casino/s_casino.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"s_casino","path":"sprites/s_casino/s_casino.yy",},"resourceVersion":"1.0","name":"1f15d68a-c4a6-455a-9573-ddef281be836","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"WIP_lounge","path":"sprites/WIP_lounge/WIP_lounge.yy",},
+    "spriteId": {"name":"s_casino","path":"sprites/s_casino/s_casino.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"05083bff-3864-4828-9b5a-3cff16dc13c2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"086e876d-f7de-4df3-b029-e2e05f2dbb5b","path":"sprites/WIP_lounge/WIP_lounge.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"f0d9cddd-406d-4fd8-b557-49c989d50a1f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1f15d68a-c4a6-455a-9573-ddef281be836","path":"sprites/s_casino/s_casino.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"WIP_lounge","path":"sprites/WIP_lounge/WIP_lounge.yy",},
+    "parent": {"name":"s_casino","path":"sprites/s_casino/s_casino.yy",},
     "resourceVersion": "1.4",
-    "name": "WIP_lounge",
+    "name": "s_casino",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b73e131b-833c-4227-b765-5ff067f9e6d4","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0915199f-ed77-4f01-9b20-e0ee815917fd","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Backgrounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "WIP_lounge",
+  "name": "s_casino",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -1,1 +1,1 @@
-global.minigame = "Area2"
+room_goto(r_dicecrapsgame);

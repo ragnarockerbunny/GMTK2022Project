@@ -11,7 +11,7 @@ if(can_interact){
 	if(keyboard_check_pressed(vk_space) || keyboard_check_pressed(vk_enter) || keyboard_check_pressed(vk_escape)){
 		stop = true;
 		if(kickpower >= goodkick_min && kickpower<= goodkick_max){
-			o_game.money+= 100;
+			global.money+= 100;
 			play_sfx(sfx_tablebump_success);
 			play_sfx(sfx_money_made);
 		}else play_sfx(sfx_tablebump_fail);

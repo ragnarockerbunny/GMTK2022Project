@@ -13,8 +13,13 @@ if(global.debug_toggle){
 draw_set_font(f_hud)
 draw_set_halign(fa_left)
 draw_set_valign(fa_top)
-draw_set_colour(c_white);
+draw_set_colour(c_black);
+
 if room == r_main
-draw_text(1, 1, "$" + string(global.money));
-//draw_set_color((c_white))
-//draw_text(0, 0, "$" + string(global.money));
+{
+	
+	draw_text(1, 1, "$" + string(global.money));
+	draw_set_color((c_white))
+	draw_text_transformed(0,100,"You have " + string(global.time) + " hours to pay your debt",0.5,0.5,0)
+	draw_text(0, 0, "$" + string(global.money));
+}

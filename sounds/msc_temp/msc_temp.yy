@@ -12,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "msc_temp.mp3",
-  "duration": 16.248125,
+  "duration": 106.7363,
   "parent": {
     "name": "Music",
     "path": "folders/Sounds/Music.yy",

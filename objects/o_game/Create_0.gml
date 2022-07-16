@@ -1,3 +1,4 @@
+depth = -100000;
 global.minigame = noone
 
 global.winning_percentage = 50

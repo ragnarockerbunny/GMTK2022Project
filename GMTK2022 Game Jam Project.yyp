@@ -77,10 +77,10 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"r_init","path":"rooms/r_init/r_init.yy",},},
-    {"roomId":{"name":"r_redlightgreenlightgame","path":"rooms/r_redlightgreenlightgame/r_redlightgreenlightgame.yy",},},
     {"roomId":{"name":"r_team_logo","path":"rooms/r_team_logo/r_team_logo.yy",},},
     {"roomId":{"name":"r_main","path":"rooms/r_main/r_main.yy",},},
     {"roomId":{"name":"r_dicecrapsgame","path":"rooms/r_dicecrapsgame/r_dicecrapsgame.yy",},},
+    {"roomId":{"name":"r_redlightgreenlightgame","path":"rooms/r_redlightgreenlightgame/r_redlightgreenlightgame.yy",},},
     {"roomId":{"name":"r_area","path":"rooms/r_area/r_area.yy",},},
     {"roomId":{"name":"r_area2","path":"rooms/r_area2/r_area2.yy",},},
     {"roomId":{"name":"r_minigames","path":"rooms/r_minigames/r_minigames.yy",},},

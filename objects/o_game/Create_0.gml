@@ -13,6 +13,6 @@ global.volume_sfx = 100;
 global.volume_msc = 100;
 global.debug_toggle = false;
 
-global.money = 350000;
+global.money = 900000;
 
 global.time = 48

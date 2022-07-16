@@ -11,3 +11,5 @@ global.volume_sfx = 100;
 global.volume_msc = 100;
 
 global.debug_toggle = false;
+
+money = 0;

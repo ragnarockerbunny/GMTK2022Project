@@ -14,8 +14,8 @@
   "soundFile": "msc_temp.mp3",
   "duration": 16.248125,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Music",
+    "path": "folders/Sounds/Music.yy",
   },
   "resourceVersion": "1.0",
   "name": "msc_temp",

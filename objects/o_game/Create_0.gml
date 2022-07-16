@@ -13,7 +13,7 @@ global.volume_sfx = 70;
 global.volume_msc = 70;
 global.debug_toggle = false;
 
-global.money = 900000;
+global.money = 31258;//
 global.debt = 1000000
 
 global.time = 48

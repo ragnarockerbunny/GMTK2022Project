@@ -33,10 +33,14 @@
     {"id":{"name":"sfx_tablebump_fail","path":"sounds/sfx_tablebump_fail/sfx_tablebump_fail.yy",},"order":4,},
     {"id":{"name":"o_trigger","path":"objects/o_trigger/o_trigger.yy",},"order":1,},
     {"id":{"name":"o_buttonparent","path":"objects/o_buttonparent/o_buttonparent.yy",},"order":0,},
+<<<<<<< Updated upstream
     {"id":{"name":"s_table","path":"sprites/s_table/s_table.yy",},"order":0,},
     {"id":{"name":"SequenceHard","path":"sequences/SequenceHard/SequenceHard.yy",},"order":2,},
     {"id":{"name":"sequenceMed","path":"sequences/sequenceMed/sequenceMed.yy",},"order":3,},
     {"id":{"name":"r_Medium","path":"rooms/r_Medium/r_Medium.yy",},"order":1,},
+=======
+    {"id":{"name":"s_table","path":"sprites/s_table/s_table.yy",},"order":1,},
+>>>>>>> Stashed changes
     {"id":{"name":"play_music","path":"scripts/play_music/play_music.yy",},"order":2,},
     {"id":{"name":"s_back","path":"sprites/s_back/s_back.yy",},"order":8,},
     {"id":{"name":"r_main","path":"rooms/r_main/r_main.yy",},"order":4,},
@@ -66,10 +70,16 @@
     {"id":{"name":"sfx_money_made","path":"sounds/sfx_money_made/sfx_money_made.yy",},"order":0,},
     {"id":{"name":"s_playGame","path":"sprites/s_playGame/s_playGame.yy",},"order":1,},
     {"id":{"name":"o_minigameParent","path":"objects/o_minigameParent/o_minigameParent.yy",},"order":0,},
+<<<<<<< Updated upstream
     {"id":{"name":"o_main_menu","path":"objects/o_main_menu/o_main_menu.yy",},"order":0,},
+=======
+    {"id":{"name":"cupRoomEasy","path":"rooms/cupRoomEasy/cupRoomEasy.yy",},"order":0,},
+>>>>>>> Stashed changes
     {"id":{"name":"s_sus_bar","path":"sprites/s_sus_bar/s_sus_bar.yy",},"order":2,},
+    {"id":{"name":"s_card","path":"sprites/s_card/s_card.yy",},"order":0,},
     {"id":{"name":"s_cheat_button","path":"sprites/s_cheat_button/s_cheat_button.yy",},"order":1,},
     {"id":{"name":"o_area2","path":"objects/o_area2/o_area2.yy",},"order":5,},
+    {"id":{"name":"cupRoomMed","path":"rooms/cupRoomMed/cupRoomMed.yy",},"order":1,},
     {"id":{"name":"vc_intro","path":"sounds/vc_intro/vc_intro.yy",},"order":0,},
     {"id":{"name":"o_music_controller","path":"objects/o_music_controller/o_music_controller.yy",},"order":0,},
     {"id":{"name":"s_money_collector","path":"sprites/s_money_collector/s_money_collector.yy",},"order":3,},
@@ -77,6 +87,7 @@
     {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},"order":2,},
     {"id":{"name":"o_area3","path":"objects/o_area3/o_area3.yy",},"order":6,},
     {"id":{"name":"s_WIPlounge","path":"sprites/s_WIPlounge/s_WIPlounge.yy",},"order":1,},
+    {"id":{"name":"cupRoomHard","path":"rooms/cupRoomHard/cupRoomHard.yy",},"order":2,},
     {"id":{"name":"r_init","path":"rooms/r_init/r_init.yy",},"order":0,},
   ],
   "Options": [
@@ -111,9 +122,15 @@
     {"roomId":{"name":"r_area2","path":"rooms/r_area2/r_area2.yy",},},
     {"roomId":{"name":"r_minigames","path":"rooms/r_minigames/r_minigames.yy",},},
     {"roomId":{"name":"r_simonsaysgame","path":"rooms/r_simonsaysgame/r_simonsaysgame.yy",},},
+<<<<<<< Updated upstream
     {"roomId":{"name":"r_easy","path":"rooms/r_easy/r_easy.yy",},},
     {"roomId":{"name":"r_Medium","path":"rooms/r_Medium/r_Medium.yy",},},
     {"roomId":{"name":"r_tut","path":"rooms/r_tut/r_tut.yy",},},
+=======
+    {"roomId":{"name":"cupRoomEasy","path":"rooms/cupRoomEasy/cupRoomEasy.yy",},},
+    {"roomId":{"name":"cupRoomMed","path":"rooms/cupRoomMed/cupRoomMed.yy",},},
+    {"roomId":{"name":"cupRoomHard","path":"rooms/cupRoomHard/cupRoomHard.yy",},},
+>>>>>>> Stashed changes
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -142,10 +159,15 @@
     {"folderPath":"folders/Objects/UI and HUD.yy","order":7,"resourceVersion":"1.0","name":"UI and HUD","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Sound.yy","order":8,"resourceVersion":"1.0","name":"Sound","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sounds/Other.yy","order":3,"resourceVersion":"1.0","name":"Other","tags":[],"resourceType":"GMFolder",},
+<<<<<<< Updated upstream
     {"folderPath":"folders/Rooms/Minigames.yy","order":10,"resourceVersion":"1.0","name":"Minigames","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Area1 Elements/cupGame.yy","order":1,"resourceVersion":"1.0","name":"cupGame","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Minigame Controllers/cardShuffleGame.yy","order":5,"resourceVersion":"1.0","name":"cardShuffleGame","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Rooms/Minigames/room for shuffle Game.yy","order":7,"resourceVersion":"1.0","name":"room for shuffle Game","tags":[],"resourceType":"GMFolder",},
+=======
+    {"folderPath":"folders/Rooms/CupGameRooms.yy","order":10,"resourceVersion":"1.0","name":"CupGameRooms","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Area1 Elements/subCheat Elements.yy","order":0,"resourceVersion":"1.0","name":"subCheat Elements","tags":[],"resourceType":"GMFolder",},
+>>>>>>> Stashed changes
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

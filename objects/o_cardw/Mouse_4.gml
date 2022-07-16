@@ -1,4 +1,6 @@
-var _percent = irandom_range(50,100)
+if !in_sequence
+{
+	var _percent = irandom_range(50,100)
     global.winning_percentage = _percent
     global.losing_percentage = 100 - _percent
 
@@ -23,3 +25,4 @@ var _percent = irandom_range(50,100)
     if _picking == "w" global.condition = 1 else if _picking == "l" global.condition = 0
 	
 room_goto(global.last_room)
+}

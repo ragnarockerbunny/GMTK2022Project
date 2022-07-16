@@ -9,8 +9,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_minigameParent",
-    "path": "objects/obj_minigameParent/obj_minigameParent.yy",
+    "name": "o_minigameParent",
+    "path": "objects/o_minigameParent/o_minigameParent.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -33,8 +33,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Minigame Controllers",
+    "path": "folders/Objects/Minigame Controllers.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_kickminigame",

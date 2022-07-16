@@ -17,6 +17,9 @@ if(!win && !lose){
 if(time <=0) lose = true;
 
 if(iterator>= array_length(charArr)) {
-	if(!win)o_game.money+=100;
+	if(!win){
+		addMoney(100);
+		play_sfx(sfx_money_made)
+	}
 	win = true;
 }

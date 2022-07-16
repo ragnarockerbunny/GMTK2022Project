@@ -7,6 +7,7 @@ draw_set_colour(c_red);
 draw_rectangle(xx, yy - (rh), xx+(rw*(time/time_max)), yy, false);
 draw_set_colour(c_white);
 draw_set_font(f_hud);
+draw_set_halign(fa_left);
 if(!win && !lose){
 	draw_text(xx+irandom_range(-1, 1), yy-64+irandom_range(-1, 1), "PRESS " + charArr[iterator] + "!!!");
 }

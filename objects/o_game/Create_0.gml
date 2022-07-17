@@ -13,11 +13,10 @@ global.volume_sfx = 20;
 global.volume_msc = 20;
 global.debug_toggle = false;
 
-global.money = 31258;//starting cash
-global.debt = 1000000
+global.money = 31258;
 
 global.time = 48
 
 global.meter = 45
 
-tutorial_voice_flag = false;
+global.button_is_pressed = array_create(5,-1)

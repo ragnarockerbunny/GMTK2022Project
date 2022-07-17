@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "s_green",
-    "path": "sprites/s_green/s_green.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -33,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Minigame Controllers",
-    "path": "folders/Objects/Minigame Controllers.yy",
+    "name": "Area4 MiniGame",
+    "path": "folders/Objects/Minigame Controllers/Area4 MiniGame.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_redlightgreenlightgame",

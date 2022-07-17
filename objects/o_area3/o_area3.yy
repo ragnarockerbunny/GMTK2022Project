@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_genericbutton",
-    "path": "sprites/s_genericbutton/s_genericbutton.yy",
+    "name": "s_area3",
+    "path": "sprites/s_area3/s_area3.yy",
   },
   "solid": false,
   "visible": true,

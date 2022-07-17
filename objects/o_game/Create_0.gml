@@ -17,3 +17,5 @@ global.money = 31258;//
 global.debt = 1000000
 
 global.time = 48
+
+global.meter = 45

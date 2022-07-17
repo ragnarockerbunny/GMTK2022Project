@@ -3,9 +3,10 @@
 
 depth = -1000
 
+iWin = -1;
 max_power = 100;
 kickpower = choose(5, 10, 20);
-goodkick_min = 70;
+goodkick_min = 77;
 goodkick_max = 80;
 can_interact = false;
 alarm[0] = 1;

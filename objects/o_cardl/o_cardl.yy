@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "cardShuffleGame",
-    "path": "folders/Objects/Minigame Controllers/cardShuffleGame.yy",
+    "name": "Area1 MiniGame",
+    "path": "folders/Objects/Minigame Controllers/Area1 MiniGame.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_cardL",

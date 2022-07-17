@@ -1,11 +1,17 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "s_dice",
+    "path": "sprites/s_dice/s_dice.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "o_minigameParent",
+    "path": "objects/o_minigameParent/o_minigameParent.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -21,15 +27,17 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Area1 MiniGame",
-    "path": "folders/Objects/Minigame Controllers/Area1 MiniGame.yy",
+    "name": "Area2 MiniGame",
+    "path": "folders/Objects/Minigame Controllers/Area2 MiniGame.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_win",
+  "name": "o_kickminigameMedium",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -33,11 +33,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Minigame Controllers",
-    "path": "folders/Objects/Minigame Controllers.yy",
+    "name": "Area2 MiniGame",
+    "path": "folders/Objects/Minigame Controllers/Area2 MiniGame.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_kickminigame",
+  "name": "o_kickminigameEasy",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -42,8 +42,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Minigames",
-    "path": "folders/Rooms/Minigames.yy",
+    "name": "rooms for dice game",
+    "path": "folders/Rooms/Minigames/rooms for dice game.yy",
   },
   "resourceVersion": "1.0",
   "name": "r_area2",

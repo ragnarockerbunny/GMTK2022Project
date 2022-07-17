@@ -52,8 +52,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Minigames",
-    "path": "folders/Rooms/Minigames.yy",
+    "name": "room for shuffle Game",
+    "path": "folders/Rooms/Minigames/room for shuffle Game.yy",
   },
   "resourceVersion": "1.0",
   "name": "r_area",

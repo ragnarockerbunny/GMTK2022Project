@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
+event_inherited();
 
-/*
-if(global.debug_toggle) level_money_requirement = 0;
+button_text = "Play Game";

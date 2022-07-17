@@ -1,4 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-layer_sequence_play(seq);
+
+event_inherited();
+
+button_text = "Pick Right Card";

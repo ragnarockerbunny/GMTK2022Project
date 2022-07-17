@@ -1,11 +1,17 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "s_genericbutton",
+    "path": "sprites/s_genericbutton/s_genericbutton.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "o_buttonparent",
+    "path": "objects/o_buttonparent/o_buttonparent.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -19,17 +25,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Area1 MiniGame",
-    "path": "folders/Objects/Minigame Controllers/Area1 MiniGame.yy",
+    "name": "Buttons for HTML",
+    "path": "folders/Objects/Minigame Controllers/Area1 MiniGame/Buttons for HTML.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_init_easy_card_sequence",
+  "name": "o_shufflegame_left",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -11,13 +11,13 @@ if(!win && !lose){
 		iterator++;
 	} else if( keyboard_check(ord("D")) && charArr[iterator] == "D" ){
 		iterator++;
-	} else if( keyboard_check(ord("J")) && charArr[iterator] == "J" ){
+	} else if( keyboard_check(ord("Q")) && charArr[iterator] == "Q" ){
 		iterator++;
-	} else if( keyboard_check(ord("K")) && charArr[iterator] == "K" ){
+	} else if( keyboard_check(ord("E")) && charArr[iterator] == "E" ){
 		iterator++;
-	} else if( keyboard_check(ord("L")) && charArr[iterator] == "L" ){
+	} else if( keyboard_check(ord("R")) && charArr[iterator] == "R" ){
 		iterator++;
-	} else if( keyboard_check(ord("I")) && charArr[iterator] == "I" ){
+	} else if( keyboard_check(ord("F")) && charArr[iterator] == "F" ){
 		iterator++;
 	}
 	

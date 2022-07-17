@@ -1,5 +1,4 @@
-if !in_sequence
-{
+if !in_sequence {
 		/*
 	var _percent = irandom_range(50,100)
     global.winning_percentage = _percent

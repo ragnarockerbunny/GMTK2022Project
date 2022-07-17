@@ -1,5 +1,5 @@
-if global.money >= 40000 {
-	room_goto(r_winscreen)
+if global.money >= 1000000 {
+	room_goto(r_ending);
 }
 
 

@@ -19,11 +19,13 @@ if(can_interact){
 			global.money+= 10417;
 			play_sfx(sfx_crowd_clap);
 			play_sfx(sfx_money_made);
+			can_interact = false
 		}else {
 			play_sfx(sfx_tablebump_fail);
 			play_sfx(sfx_crowd_gasp);
 			global.money -= 7000
 			global.meter += 5
+			can_interact = false
 		}
 		
 		

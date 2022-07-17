@@ -105,9 +105,9 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"r_init","path":"rooms/r_init/r_init.yy",},},
+    {"roomId":{"name":"r_main","path":"rooms/r_main/r_main.yy",},},
     {"roomId":{"name":"r_team_logo","path":"rooms/r_team_logo/r_team_logo.yy",},},
     {"roomId":{"name":"r_title","path":"rooms/r_title/r_title.yy",},},
-    {"roomId":{"name":"r_main","path":"rooms/r_main/r_main.yy",},},
     {"roomId":{"name":"r_opening_textcrawl","path":"rooms/r_opening_textcrawl/r_opening_textcrawl.yy",},},
     {"roomId":{"name":"r_redlightgreenlightgame","path":"rooms/r_redlightgreenlightgame/r_redlightgreenlightgame.yy",},},
     {"roomId":{"name":"r_dicecrapsgame","path":"rooms/r_dicecrapsgame/r_dicecrapsgame.yy",},},

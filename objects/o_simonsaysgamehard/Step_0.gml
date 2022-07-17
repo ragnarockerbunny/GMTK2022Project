@@ -12,7 +12,6 @@ if(!win && !lose){
 	} else if( keyboard_check(ord("D")) && charArr[iterator] == "D" ){
 		iterator++;
 	}
-	
 }
 
 if(time <=0) lose = true;

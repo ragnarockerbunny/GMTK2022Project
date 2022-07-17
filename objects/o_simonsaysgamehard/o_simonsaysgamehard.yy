@@ -30,7 +30,7 @@
     "path": "folders/Objects/Minigame Controllers/Area3 MiniGame.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_simonsaysgame",
+  "name": "o_simonsaysgameHard",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -3,13 +3,13 @@
 
 depth = -1
 
-time_max = 380;
+time_max = 320;
 time = time_max;
 
 iterator = 0;
 charArr = [];
 
-for(i = 0; i < 10; i++){
+for(i = 0; i < 15; i++){
 	charArr[i] = choose("W", "A", "S", "D");
 }
 

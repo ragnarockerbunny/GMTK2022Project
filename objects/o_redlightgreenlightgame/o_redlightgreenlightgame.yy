@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "s_green",
+    "path": "sprites/s_green/s_green.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

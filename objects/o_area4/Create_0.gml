@@ -1,6 +1,4 @@
 event_inherited();
 
-level_money_requirement = 250000 //$750,000
-destination = r_redlightgreenlightgame
-
-button_text = "Game 4";
+level_money_requirement = 0 //$750,000  250000
+destination = r_area4room

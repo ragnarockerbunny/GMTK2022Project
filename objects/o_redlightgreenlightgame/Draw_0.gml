@@ -1,24 +1,16 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+draw_self()
 var radius = 96
 if(!win && !lose){
 draw_set_colour(c_grey);
-if(state = green_light) draw_set_color(c_green);
-draw_circle(x, y, radius, false);
-draw_set_colour(c_grey);
-if(state = yellow_light) draw_set_color(c_yellow);
-draw_circle(x, y+(radius*2), radius, false);
-draw_set_colour(c_grey);
-if(state = red_light) draw_set_color(c_red);
-draw_circle(x, y+(radius*2*2), radius, false);
+if(state = green_light) sprite_index = s_green
+if(state = yellow_light) sprite_index = s_yellow
+if(state = red_light) sprite_index = s_red
 }
 else{
-	if(win) draw_set_colour(c_green);
-	else if(lose)draw_set_colour(c_red);
-	draw_circle(x, y, radius, false);
-	draw_circle(x, y+(radius*2), radius, false);
-	draw_circle(x, y+(radius*2*2), radius, false);
+	if(win) sprite_index = s_green
+	else if(lose) sprite_index = s_red
 }
 
 var rw = 1280, rh =96;

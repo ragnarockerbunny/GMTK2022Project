@@ -33,8 +33,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Area4 MiniGame",
-    "path": "folders/Objects/Minigame Controllers/Area4 MiniGame.yy",
+    "name": "Minigame Controllers",
+    "path": "folders/Objects/Minigame Controllers.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_redlightgreenlightgame",

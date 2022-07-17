@@ -1,1 +1,1 @@
-o_music_controller.room_song = -1;
+o_music_controller.room_song = msc_maintheme;

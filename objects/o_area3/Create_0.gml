@@ -1,6 +1,6 @@
 event_inherited();
 
-level_money_requirement = 0//125000;
+level_money_requirement = 125000;
 if global.button_is_pressed[2] == -1
 {
 	destination = r_tut3

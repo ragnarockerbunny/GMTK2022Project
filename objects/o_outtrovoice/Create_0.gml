@@ -6,4 +6,4 @@ play_sfx(vc_outtro);
 y_draw = 600;
 
 text = 
-"Lorem Ipsum";
+"A rough end\nfor a rough gambler";

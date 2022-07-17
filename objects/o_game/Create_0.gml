@@ -20,3 +20,5 @@ global.time = 48
 global.meter = 45
 
 global.button_is_pressed = array_create(5,-1)
+
+intro_voice_flag = false;

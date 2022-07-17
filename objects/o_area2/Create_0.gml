@@ -1,6 +1,6 @@
 event_inherited();
 
-level_money_requirement = 0//62500;
+level_money_requirement = 62500;
 
 if global.button_is_pressed[1] == -1
 {

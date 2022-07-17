@@ -1,0 +1,1 @@
+text = "TUTORIAL: click space when the moving\n line goes over the green patch. Be sure\n to get it or you will miss your chance to\n shift the dice and win money";

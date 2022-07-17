@@ -1,0 +1,1 @@
+text = "TUTORIAL: Follow the agents \ncommand by cliking on the right \nletters he tells you. Do this before \ntime runs out and it will allow you to\n cheat the game!";

@@ -1,3 +1,3 @@
 event_inherited();
-
-level_money_requirement = 500000 //$1,000,000
+destination = r_slotsgame
+level_money_requirement = 0 //$1,000,000 500000

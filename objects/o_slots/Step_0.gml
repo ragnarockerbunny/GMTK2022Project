@@ -36,6 +36,7 @@ if(slots_round > 3){
 	){
 		if(!win){
 			global.meter += 10
+			global.time -= 1
 			global.money+= 83333;
 			play_sfx(sfx_tablebump_success);
 			play_sfx(sfx_money_made);

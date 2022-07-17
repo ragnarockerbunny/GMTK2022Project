@@ -10,7 +10,7 @@ iterator = 0;
 charArr = [];
 
 for(i = 0; i < 10; i++){
-	charArr[i] = choose("W", "A", "S", "D");
+	charArr[i] = choose("W", "A", "S", "D","J","K","L","I");
 }
 
 win= false;

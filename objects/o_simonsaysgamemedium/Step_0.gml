@@ -11,6 +11,14 @@ if(!win && !lose){
 		iterator++;
 	} else if( keyboard_check(ord("D")) && charArr[iterator] == "D" ){
 		iterator++;
+	} else if( keyboard_check(ord("J")) && charArr[iterator] == "J" ){
+		iterator++;
+	} else if( keyboard_check(ord("K")) && charArr[iterator] == "K" ){
+		iterator++;
+	} else if( keyboard_check(ord("L")) && charArr[iterator] == "L" ){
+		iterator++;
+	} else if( keyboard_check(ord("I")) && charArr[iterator] == "I" ){
+		iterator++;
 	}
 }
 

@@ -1,3 +1,4 @@
 event_inherited()
-room_goto(r_slotsgame);
-global.time--
+if global.money >= level_money_requirement {
+	global.time --
+}

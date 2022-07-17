@@ -1,2 +1,4 @@
 event_inherited()
-global.time--
+if global.money >= level_money_requirement {
+	global.time --
+}

@@ -11,7 +11,7 @@ switch(state){
 		state = red_light;
 		break;
 	case red_light:
-		alarm[0] = choose (30, 90, 111,  200);
+		alarm[0] = choose (90, 111,  200);
 		state = green_light;
 		break;
 }

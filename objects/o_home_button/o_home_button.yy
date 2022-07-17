@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_back",
-    "path": "sprites/s_back/s_back.yy",
+    "name": "s_return",
+    "path": "sprites/s_return/s_return.yy",
   },
   "solid": false,
   "visible": true,

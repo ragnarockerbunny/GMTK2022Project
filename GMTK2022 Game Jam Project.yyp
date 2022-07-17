@@ -95,6 +95,7 @@
     {"id":{"name":"o_kickminigameHard","path":"objects/o_kickminigameHard/o_kickminigameHard.yy",},"order":2,},
     {"id":{"name":"s_sus_bar","path":"sprites/s_sus_bar/s_sus_bar.yy",},"order":2,},
     {"id":{"name":"s_cheat_button","path":"sprites/s_cheat_button/s_cheat_button.yy",},"order":1,},
+    {"id":{"name":"s_return","path":"sprites/s_return/s_return.yy",},"order":10,},
     {"id":{"name":"o_area2","path":"objects/o_area2/o_area2.yy",},"order":5,},
     {"id":{"name":"vc_intro","path":"sounds/vc_intro/vc_intro.yy",},"order":0,},
     {"id":{"name":"s_pay","path":"sprites/s_pay/s_pay.yy",},"order":1,},

@@ -19,10 +19,12 @@ if(can_interact){
 			global.money+= 10417;
 			play_sfx(sfx_tablebump_success);
 			play_sfx(sfx_money_made);
+			can_interact = false
 		}else {
 			play_sfx(sfx_tablebump_fail);
 			global.money -= 7000
 			global.meter += 5
+			can_interact = false
 		}
 		
 		

@@ -22,4 +22,7 @@ if (
 	draw_text(0, 0, "$" + string(global.money));
 }
 
-if room == r_main draw_text_transformed(0,100,"You have " + string(global.time) + " hours to pay your debt",0.5,0.5,0)
+if (room == r_main) {
+	draw_text_transformed(0,100,"You have " + string(global.time) + " hours to pay your debt",0.5,0.5,0);
+}
+

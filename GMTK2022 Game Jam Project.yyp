@@ -57,6 +57,7 @@
     {"id":{"name":"play_music","path":"scripts/play_music/play_music.yy",},"order":2,},
     {"id":{"name":"s_back","path":"sprites/s_back/s_back.yy",},"order":8,},
     {"id":{"name":"r_main","path":"rooms/r_main/r_main.yy",},"order":4,},
+    {"id":{"name":"s_genericbutton","path":"sprites/s_genericbutton/s_genericbutton.yy",},"order":3,},
     {"id":{"name":"o_simonsaysgame","path":"objects/o_simonsaysgame/o_simonsaysgame.yy",},"order":0,},
     {"id":{"name":"o_cardL","path":"objects/o_cardL/o_cardL.yy",},"order":1,},
     {"id":{"name":"play_sfx","path":"scripts/play_sfx/play_sfx.yy",},"order":1,},

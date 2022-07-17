@@ -68,7 +68,6 @@
     {"id":{"name":"o_shufflegame_right","path":"objects/o_shufflegame_right/o_shufflegame_right.yy",},"order":0,},
     {"id":{"name":"s_win","path":"sprites/s_win/s_win.yy",},"order":0,},
     {"id":{"name":"o_win","path":"objects/o_win/o_win.yy",},"order":3,},
-    {"id":{"name":"o_money_collector","path":"objects/o_money_collector/o_money_collector.yy",},"order":10,},
     {"id":{"name":"r_team_logo","path":"rooms/r_team_logo/r_team_logo.yy",},"order":1,},
     {"id":{"name":"r_simonsaysgame","path":"rooms/r_simonsaysgame/r_simonsaysgame.yy",},"order":0,},
     {"id":{"name":"o_shufflegame_left","path":"objects/o_shufflegame_left/o_shufflegame_left.yy",},"order":2,},

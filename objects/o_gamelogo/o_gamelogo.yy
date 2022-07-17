@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_gamelogo",
-    "path": "sprites/s_gamelogo/s_gamelogo.yy",
+    "name": "s_gamelogo2",
+    "path": "sprites/s_gamelogo2/s_gamelogo2.yy",
   },
   "solid": false,
   "visible": true,

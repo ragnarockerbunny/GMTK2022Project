@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"r_dicecrapsgameHard","path":"rooms/r_dicecrapsgameHard/r_dicecrapsgameHard.yy",},"order":3,},
+    {"id":{"name":"s_gamelogo2","path":"sprites/s_gamelogo2/s_gamelogo2.yy",},"order":7,},
     {"id":{"name":"o_playShuffle","path":"objects/o_playShuffle/o_playShuffle.yy",},"order":2,},
     {"id":{"name":"o_lose_button","path":"objects/o_lose_button/o_lose_button.yy",},"order":2,},
     {"id":{"name":"addMoney","path":"scripts/addMoney/addMoney.yy",},"order":3,},
@@ -116,6 +117,7 @@
     {"id":{"name":"r_simonsaysgameHard","path":"rooms/r_simonsaysgameHard/r_simonsaysgameHard.yy",},"order":2,},
     {"id":{"name":"s_blackjack_table","path":"sprites/s_blackjack_table/s_blackjack_table.yy",},"order":5,},
     {"id":{"name":"o_area3","path":"objects/o_area3/o_area3.yy",},"order":6,},
+    {"id":{"name":"sfx_crowd_clap","path":"sounds/sfx_crowd_clap/sfx_crowd_clap.yy",},"order":6,},
     {"id":{"name":"s_WIPlounge","path":"sprites/s_WIPlounge/s_WIPlounge.yy",},"order":1,},
     {"id":{"name":"r_init","path":"rooms/r_init/r_init.yy",},"order":0,},
   ],

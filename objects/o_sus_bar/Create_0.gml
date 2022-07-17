@@ -1,2 +1,2 @@
-global.meter = 55
+global.meter = 50
 global.suspicion = "none"

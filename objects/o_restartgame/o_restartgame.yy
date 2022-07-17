@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "s_restartGame",
+    "path": "sprites/s_restartGame/s_restartGame.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -19,17 +22,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "cardShuffleGame",
-    "path": "folders/Objects/Minigame Controllers/cardShuffleGame.yy",
+    "name": "end screen commands",
+    "path": "folders/Objects/Buttons/end screen commands.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_win",
+  "name": "o_restartGame",
   "tags": [],
   "resourceType": "GMObject",
 }

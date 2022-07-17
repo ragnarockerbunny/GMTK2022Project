@@ -8,7 +8,7 @@ cursor_y = clamp(cursor_y, 0, cursor_max);
 if(keyboard_check_pressed(vk_space)){
 	switch(cursor_y){
 		case 0://Start
-			room_goto(r_main);
+			room_goto(r_opening_textcrawl);
 			break;
 		case 1://Options
 			//

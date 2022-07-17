@@ -1,3 +1,6 @@
 event_inherited();
 destination = r_slotsgame
-level_money_requirement = 0 //$1,000,000 500000
+
+level_money_requirement = 250000;
+
+button_text = "Table 5";

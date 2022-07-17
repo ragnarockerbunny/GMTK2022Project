@@ -1,8 +1,11 @@
 if !in_sequence
 {
+		/*
 	var _percent = irandom_range(50,100)
     global.winning_percentage = _percent
     global.losing_percentage = 100 - _percent
+	
+	
 
     _chance = array_create(100, -1)
     var _w_count = global.winning_percentage
@@ -23,6 +26,7 @@ if !in_sequence
 
     var _picking = _chance[irandom(100)]
     if _picking == "w" global.condition = 1 else if _picking == "l" global.condition = 0
-	
-room_goto(global.last_room)
+		*/
+	global.condition = 1;
+	room_goto(global.last_room)
 }

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_area1",
-    "path": "sprites/s_area1/s_area1.yy",
+    "name": "s_genericbutton",
+    "path": "sprites/s_genericbutton/s_genericbutton.yy",
   },
   "solid": false,
   "visible": true,
@@ -9,8 +9,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "o_buttonparent",
-    "path": "objects/o_buttonparent/o_buttonparent.yy",
+    "name": "o_tablebutton_parent",
+    "path": "objects/o_tablebutton_parent/o_tablebutton_parent.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

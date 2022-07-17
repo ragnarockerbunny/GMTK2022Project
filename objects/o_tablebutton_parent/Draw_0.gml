@@ -1,6 +1,4 @@
 /// @description Insert description here
-// You can write your code in this editor
-
 
 draw_set_halign(fa_middle)
 draw_set_valign(fa_center)
@@ -14,6 +12,14 @@ if(hover){
 	draw_self();
 	draw_text(x, y, button_text);
 }
+
+draw_set_halign(fa_middle)
+draw_set_font(f_tutorial);
+var text_float_distance = 50;
+if hover && global.money < level_money_requirement
+draw_text_transformed_color(x,y-text_float_distance,"$" + string(level_money_requirement),0.5,0.5,0,c_red,c_red,c_red,c_red,1)
+else if hover && global.money >= level_money_requirement
+draw_text_transformed_color(x,y-text_float_distance,"Enter Game",0.5,0.5,0,c_white,c_white,c_white,c_white,1)
 
 //reset Font Alignment for other objects
 draw_set_halign(fa_left)

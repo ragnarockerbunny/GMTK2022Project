@@ -1,4 +1,6 @@
 event_inherited();
 
-level_money_requirement = 0 //$750,000  250000
-destination = r_rlightglight
+level_money_requirement = 250000;
+destination = r_rlightglight;
+
+button_text = "Table 4";

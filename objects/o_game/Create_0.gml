@@ -9,8 +9,8 @@ global.status = -1
 
 global.last_room = 0
 
-global.volume_sfx = 70;
-global.volume_msc = 70;
+global.volume_sfx = 20;
+global.volume_msc = 20;
 global.debug_toggle = false;
 
 global.money = 31258;//

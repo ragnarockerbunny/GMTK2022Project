@@ -20,22 +20,24 @@ if(!win && !lose){
 	} else if( keyboard_check(ord("F")) && charArr[iterator] == "F" ){
 		iterator++;
 	}
-	
-	
-	
-	
-	
-	
 
 }
 
-if(time <=0) lose = true;
+if(time <=0) {
+	if(!lose){
+		global.meter -= 100
+		play_sfx(sfx_crowd_gasp);
+	}
+	lose = true;
+}
 
 if(iterator>= array_length(charArr)) {
 	if(!win){
 		addMoney(20833);
 		global.meter += 10
-		play_sfx(sfx_money_made)
+		play_sfx(sfx_crowd_clap);
+		play_sfx(sfx_money_made);
+		
 	}
 	win = true;
 }

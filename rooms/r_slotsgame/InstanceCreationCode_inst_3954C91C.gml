@@ -1,0 +1,1 @@
+text = "Hack the slot machine by getting all ones!"

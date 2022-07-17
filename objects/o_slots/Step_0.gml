@@ -43,5 +43,14 @@ if(slots_round > 3){
 		}
 		win = true;
 	}
-	else lose = true;
+	else{
+		if(!lose){
+			global.meter += 10
+			global.time -= 1
+			global.money+= 1000;
+			play_sfx(sfx_crowd_gasp);
+		}
+		lose = true;
+	}
+
 }
